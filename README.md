@@ -1,4 +1,4 @@
-# eChat
+# fluFire
 
 FluFire is a cross-platform instant chat application built with Flutter and Firebase.
 
@@ -16,16 +16,22 @@ FluFire is a cross-platform instant chat application built with Flutter and Fire
 - Support Android/iOS
 - Make voice and video calls (to be added soon)
 
-# Demo
+# Light Demo
 <p float="left">   
-  <img src="https://user-images.githubusercontent.com/48331678/91775664-44615b00-ebf4-11ea-945d-436b210f4294.gif" width="40%" height="50%" alt="flutter chat app instant chat app"/>     
-  <img src="https://user-images.githubusercontent.com/48331678/91775854-d23d4600-ebf4-11ea-8eb8-084fec6042c0.gif" width="40%" height="50%" alt="flutter chat app instant send image"/>
+  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/light_1.png?token=ANUHQIWPON4TSKUTACFKWATB2QANM" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/light_2.png?token=ANUHQITUSHIUPJFE6AEBD33B2QAOO" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/light_3.png?token=ANUHQIXKU6DR62UADQQHXILB2QAPU" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/light_4.png?token=ANUHQIVFFK2VGLQO7BBFLKDB2QASA" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/light_5.png?token=ANUHQIUXGK35GIBFDM42ACDB2QATC" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
 </p>
 
+# Dark demo
 <p float="left">  
-  <img src="https://user-images.githubusercontent.com/48331678/91776037-4a0b7080-ebf5-11ea-835b-7de0acd8dfea.png" width="30%" height="50%" alt="flutter chat app instant messages screen"/>  
-  <img src="https://user-images.githubusercontent.com/48331678/91776207-948ced00-ebf5-11ea-9c15-869b9eeb1429.png" width="30%" height="50%" alt="flutter chat app instant chat screen"/>  
-  <img src="https://user-images.githubusercontent.com/48331678/91776248-ad959e00-ebf5-11ea-84ed-abbe8c1d8cfc.gif" width="30%" height="50%" alt="flutter chat app instant voice call"/>    
+  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/dark_1.png?token=ANUHQISMT63BO4TIXDHVI4LB2P764" width="30%" height="50%" alt="flutter chat app instant messages screen"/>  
+  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/dark_2.png?token=ANUHQIXR4VJMKB46YSD2MODB2QADY" width="30%" height="50%" alt="flutter chat app instant messages screen"/>  
+  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/dark_3.png?token=ANUHQISARQ6YRMDZZJY3HXTB2QAFI" width="30%" height="50%" alt="flutter chat app instant messages screen"/>  
+  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/dark_4.png?token=ANUHQIW7JXKJG6L6BMZE44LB2QAIE" width="30%" height="50%" alt="flutter chat app instant messages screen"/>  
+  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/dark_5.png?token=ANUHQISOZ5HUCVXPCNO4YX3B2QAJG" width="30%" height="50%" alt="flutter chat app instant messages screen"/>
 </p>
 
 #### Installation
@@ -33,8 +39,8 @@ FluFire is a cross-platform instant chat application built with Flutter and Fire
 
 In the command line:
 
-    $ git clone https://github.com/melhamin/eChat.git
-    $ cd eChat/
+    $ git clone https://github.com/1morecode/fluFire.git
+    $ cd fluFire/
     $ flutter run
 
 ### For running on Android or IOS emulator
