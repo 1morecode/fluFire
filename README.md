@@ -18,20 +18,20 @@ FluFire is a cross-platform instant chat application built with Flutter and Fire
 
 # Light Demo
 <p float="left">   
-  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/light_1.png?token=ANUHQIWPON4TSKUTACFKWATB2QANM" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
-  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/light_2.png?token=ANUHQITUSHIUPJFE6AEBD33B2QAOO" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
-  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/light_3.png?token=ANUHQIXKU6DR62UADQQHXILB2QAPU" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
-  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/light_4.png?token=ANUHQIVFFK2VGLQO7BBFLKDB2QASA" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
-  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/light_5.png?token=ANUHQIUXGK35GIBFDM42ACDB2QATC" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://i.postimg.cc/rwVwY96f/light-1.png" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://i.postimg.cc/MTQ6jPRp/light-2.png" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://i.postimg.cc/8cg1dRBB/light-3.png" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://i.postimg.cc/mk3TmPmx/light-4.png" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://i.postimg.cc/bvMYrcZ5/light-5.png" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
 </p>
 
 # Dark demo
 <p float="left">  
-  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/dark_1.png?token=ANUHQISMT63BO4TIXDHVI4LB2P764" width="30%" height="50%" alt="flutter chat app instant messages screen"/>  
-  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/dark_2.png?token=ANUHQIXR4VJMKB46YSD2MODB2QADY" width="30%" height="50%" alt="flutter chat app instant messages screen"/>  
-  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/dark_3.png?token=ANUHQISARQ6YRMDZZJY3HXTB2QAFI" width="30%" height="50%" alt="flutter chat app instant messages screen"/>  
-  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/dark_4.png?token=ANUHQIW7JXKJG6L6BMZE44LB2QAIE" width="30%" height="50%" alt="flutter chat app instant messages screen"/>  
-  <img src="https://raw.githubusercontent.com/1morecode/fluFire/master/screenshots/dark_5.png?token=ANUHQISOZ5HUCVXPCNO4YX3B2QAJG" width="30%" height="50%" alt="flutter chat app instant messages screen"/>
+  <img src="https://i.postimg.cc/KvtqjnHr/dark-1.png" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://i.postimg.cc/KzKQ2LTT/dark-2.png" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://i.postimg.cc/Y9JRq9Ns/dark-3.png" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://i.postimg.cc/YSD8Z8vk/dark-4.png" width="30%" height="50%" alt="flutter chat app instant chat app"/>     
+  <img src="https://i.postimg.cc/RZRgQv9W/dark-5.png" width="30%" height="50%" alt="flutter chat app instant chat app"/>  
 </p>
 
 #### Installation
