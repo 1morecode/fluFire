@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171207399152",
+    "firebase_url": "https://perfect-1morecode.firebaseio.com",
+    "project_id": "perfect-1morecode",
+    "storage_bucket": "perfect-1morecode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171207399152:android:965ae8a0d72b375144d435",
+        "android_client_info": {
+          "package_name": "com.onemorecode.message_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171207399152-4abo1nqcreohihj1cpjji6kl8fb3qnhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onemorecode.message_app",
+            "certificate_hash": "83ae90500d76c1a12974926f14c52736471cfa0c"
+          }
+        },
+        {
+          "client_id": "171207399152-i0nsgc78slbe40bnleqa1g3gojg6d0bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRt2FgBdgXJQW_JW8eilRiUnbawmoIWT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171207399152-i0nsgc78slbe40bnleqa1g3gojg6d0bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
